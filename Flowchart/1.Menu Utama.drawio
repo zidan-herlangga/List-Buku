@@ -1,0 +1,534 @@
+<mxfile host="app.diagrams.net" modified="2024-06-05T11:41:00.770Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="SexALNxo3tW-XQ_vL64a" version="24.4.13" type="device" pages="6">
+  <diagram name="Menu Utama" id="UrbYEy-vXLpvZmGDaW7i">
+    <mxGraphModel dx="836" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#B5739D" math="0" shadow="1">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="u8RZHVBwuzD63yTwmx5L-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="u8RZHVBwuzD63yTwmx5L-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="293" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u8RZHVBwuzD63yTwmx5L-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="243" y="30" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u8RZHVBwuzD63yTwmx5L-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="u8RZHVBwuzD63yTwmx5L-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="293" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u8RZHVBwuzD63yTwmx5L-3" value="Daftar Menu" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="228" y="120" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u8RZHVBwuzD63yTwmx5L-4" value="&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;div&gt;1. Tambah Buku&lt;/div&gt;&lt;div&gt;2. Cari Buku&lt;/div&gt;&lt;div&gt;3. Tampilkan Daftar Buku&lt;/div&gt;&lt;div&gt;4. Hapus Buku&lt;/div&gt;&lt;div&gt;0. Keluar&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=left;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="105" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="u8RZHVBwuzD63yTwmx5L-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="u8RZHVBwuzD63yTwmx5L-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="399" y="235" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u8RZHVBwuzD63yTwmx5L-7" value="Pilih Menu" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="228" y="210" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u8RZHVBwuzD63yTwmx5L-10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="u8RZHVBwuzD63yTwmx5L-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="559" y="235" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u8RZHVBwuzD63yTwmx5L-14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="u8RZHVBwuzD63yTwmx5L-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="454" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u8RZHVBwuzD63yTwmx5L-9" value="1 .Tambah Buku" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="399" y="182.5" width="110" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="u8RZHVBwuzD63yTwmx5L-50" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="u8RZHVBwuzD63yTwmx5L-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="235" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u8RZHVBwuzD63yTwmx5L-30" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="u8RZHVBwuzD63yTwmx5L-15" target="u8RZHVBwuzD63yTwmx5L-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u8RZHVBwuzD63yTwmx5L-15" value="2. Cari Buku" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="399" y="330" width="110" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="u8RZHVBwuzD63yTwmx5L-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="453.5" y="477" as="targetPoint" />
+            <mxPoint x="453.5" y="435" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u8RZHVBwuzD63yTwmx5L-25" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="u8RZHVBwuzD63yTwmx5L-21" target="u8RZHVBwuzD63yTwmx5L-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u8RZHVBwuzD63yTwmx5L-32" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="u8RZHVBwuzD63yTwmx5L-21" target="u8RZHVBwuzD63yTwmx5L-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u8RZHVBwuzD63yTwmx5L-21" value="3. Tampilkan Daftar Menu" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="399" y="480" width="110" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="u8RZHVBwuzD63yTwmx5L-22" value="N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="449" y="287.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u8RZHVBwuzD63yTwmx5L-23" value="N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="449" y="435" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u8RZHVBwuzD63yTwmx5L-28" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="u8RZHVBwuzD63yTwmx5L-24" target="u8RZHVBwuzD63yTwmx5L-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u8RZHVBwuzD63yTwmx5L-39" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="u8RZHVBwuzD63yTwmx5L-24" target="u8RZHVBwuzD63yTwmx5L-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u8RZHVBwuzD63yTwmx5L-24" value="4, Hapus Buku" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="399" y="630" width="110" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="u8RZHVBwuzD63yTwmx5L-26" value="N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="449" y="585" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u8RZHVBwuzD63yTwmx5L-35" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="u8RZHVBwuzD63yTwmx5L-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="454" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="" id="u8RZHVBwuzD63yTwmx5L-64">
+          <mxCell style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=default;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" target="u8RZHVBwuzD63yTwmx5L-3">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="740" y="350" as="targetPoint" />
+              <mxPoint x="504" y="833.75" as="sourcePoint" />
+              <Array as="points">
+                <mxPoint x="504" y="831" />
+                <mxPoint x="745" y="831" />
+                <mxPoint x="745" y="145" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="0. Keluar" link="data:page/id,DT5b1n4YtEU9Edc2_EE1" id="u8RZHVBwuzD63yTwmx5L-27">
+          <mxCell style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="1">
+            <mxGeometry x="399" y="780" width="110" height="105" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="u8RZHVBwuzD63yTwmx5L-51" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="u8RZHVBwuzD63yTwmx5L-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="382" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Cari Buku" link="data:page/id,Wc9vf5rDI9XND1aCK30V" id="u8RZHVBwuzD63yTwmx5L-29">
+          <mxCell style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="1">
+            <mxGeometry x="559" y="352.5" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="u8RZHVBwuzD63yTwmx5L-67" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=default;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="u8RZHVBwuzD63yTwmx5L-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="532" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Tampilkan Daftar&lt;div&gt;Menu&lt;/div&gt;" link="data:page/id,sa5UnSjIRh-6EfI7wuhS" id="u8RZHVBwuzD63yTwmx5L-31">
+          <mxCell style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="1">
+            <mxGeometry x="559" y="502.5" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="u8RZHVBwuzD63yTwmx5L-33" value="Y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="499" y="352.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u8RZHVBwuzD63yTwmx5L-34" value="Y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="499" y="502.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u8RZHVBwuzD63yTwmx5L-36" value="End" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="404" y="940" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u8RZHVBwuzD63yTwmx5L-37" value="Y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="499" y="650" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u8RZHVBwuzD63yTwmx5L-52" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="u8RZHVBwuzD63yTwmx5L-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="682" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Hapus Buku" link="data:page/id,3a0-BBP97E7ekXVFv2sh" id="u8RZHVBwuzD63yTwmx5L-38">
+          <mxCell style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="1">
+            <mxGeometry x="559" y="652.5" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="u8RZHVBwuzD63yTwmx5L-40" value="N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="449" y="735" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u8RZHVBwuzD63yTwmx5L-41" value="Y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="449" y="885" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u8RZHVBwuzD63yTwmx5L-61" value="Y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="499" y="205" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zY9r4uWZk5qOk16sYFZl-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="u8RZHVBwuzD63yTwmx5L-4" target="u8RZHVBwuzD63yTwmx5L-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Tambah Buku" link="data:page/id,Epf3qlmC540H4VTPAhTW" id="u8RZHVBwuzD63yTwmx5L-11">
+          <mxCell style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="1">
+            <mxGeometry x="559" y="205" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="cqgtF76zQYG9PPKuGql_-1" value="N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="530" y="800" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Epf3qlmC540H4VTPAhTW" name="Tambah Buku">
+    <mxGraphModel dx="1444" dy="1056" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#B5739D" math="0" shadow="1">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6dKwmqeaSbCcsLFxo-Cx-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="6dKwmqeaSbCcsLFxo-Cx-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="197" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6dKwmqeaSbCcsLFxo-Cx-2" value="Start" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="250" y="107" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6dKwmqeaSbCcsLFxo-Cx-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" target="6dKwmqeaSbCcsLFxo-Cx-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="509" y="382.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GAnDonNismC5Q24soSTN-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="GAnDonNismC5Q24soSTN-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="297" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GAnDonNismC5Q24soSTN-3" value="Masukan Judul&lt;div&gt;Buku&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="240" y="197" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GAnDonNismC5Q24soSTN-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="GAnDonNismC5Q24soSTN-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="397" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GAnDonNismC5Q24soSTN-5" value="Masukan Nama&lt;div&gt;Penulis&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="240" y="297" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GAnDonNismC5Q24soSTN-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="GAnDonNismC5Q24soSTN-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="507" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GAnDonNismC5Q24soSTN-7" value="Masukan Tahun&lt;div&gt;Terbit&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="240" y="397" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GAnDonNismC5Q24soSTN-10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="GAnDonNismC5Q24soSTN-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="617" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GAnDonNismC5Q24soSTN-8" value="Buku Berhasil&lt;div&gt;Ditambahkan&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="240" y="507" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GAnDonNismC5Q24soSTN-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="GAnDonNismC5Q24soSTN-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="456" y="647" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GAnDonNismC5Q24soSTN-11" value="Ingin Tambah&lt;div&gt;Buku?&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="240" y="617" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GAnDonNismC5Q24soSTN-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="GAnDonNismC5Q24soSTN-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="496" y="737" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GAnDonNismC5Q24soSTN-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GAnDonNismC5Q24soSTN-14" target="GAnDonNismC5Q24soSTN-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="616" y="227" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="626" y="647" />
+              <mxPoint x="626" y="227" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GAnDonNismC5Q24soSTN-14" value="Tambah?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="456" y="607" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GAnDonNismC5Q24soSTN-16" value="Y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="536" y="617" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GAnDonNismC5Q24soSTN-18" value="N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="486" y="687" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GAnDonNismC5Q24soSTN-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="GAnDonNismC5Q24soSTN-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="616" y="772" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Menu Utama" link="data:page/id,UrbYEy-vXLpvZmGDaW7i" id="GAnDonNismC5Q24soSTN-19">
+          <mxCell style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+            <mxGeometry x="436" y="737" width="120" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="GAnDonNismC5Q24soSTN-21" value="End" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="616" y="747" width="100" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Cari Buku" id="Wc9vf5rDI9XND1aCK30V">
+    <mxGraphModel dx="794" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#B5739D" math="0" shadow="1">
+      <root>
+        <mxCell id="sK7VbneDD59ypfT4dMX7-0" />
+        <mxCell id="sK7VbneDD59ypfT4dMX7-1" parent="sK7VbneDD59ypfT4dMX7-0" />
+        <mxCell id="sK7VbneDD59ypfT4dMX7-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="sK7VbneDD59ypfT4dMX7-1" source="sK7VbneDD59ypfT4dMX7-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="197" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sK7VbneDD59ypfT4dMX7-3" value="Start" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="sK7VbneDD59ypfT4dMX7-1">
+          <mxGeometry x="250" y="107" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sK7VbneDD59ypfT4dMX7-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="sK7VbneDD59ypfT4dMX7-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="509" y="382.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sK7VbneDD59ypfT4dMX7-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="sK7VbneDD59ypfT4dMX7-1" source="sK7VbneDD59ypfT4dMX7-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="297" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sK7VbneDD59ypfT4dMX7-6" value="Masukan Judul&lt;div&gt;Buku Yang Ingin&lt;/div&gt;&lt;div&gt;Dicari&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="sK7VbneDD59ypfT4dMX7-1">
+          <mxGeometry x="240" y="197" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Sq9Ec-yBjlKaFy_Hf03E-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="sK7VbneDD59ypfT4dMX7-1" source="Sq9Ec-yBjlKaFy_Hf03E-0" target="vRxOuRBqFdJarvsd0BSW-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sq9Ec-yBjlKaFy_Hf03E-0" value="Buku Ditemukan:&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Judul: .....&lt;/div&gt;&lt;div&gt;Penulis: .....&lt;/div&gt;&lt;div&gt;Tahun Terbit: ....&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;align=left;" vertex="1" parent="sK7VbneDD59ypfT4dMX7-1">
+          <mxGeometry x="240" y="300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vRxOuRBqFdJarvsd0BSW-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="sK7VbneDD59ypfT4dMX7-1" source="vRxOuRBqFdJarvsd0BSW-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vRxOuRBqFdJarvsd0BSW-0" value="Ingin Mencari&lt;div&gt;Buku Lagi?&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="sK7VbneDD59ypfT4dMX7-1">
+          <mxGeometry x="240" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vRxOuRBqFdJarvsd0BSW-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="sK7VbneDD59ypfT4dMX7-1" source="vRxOuRBqFdJarvsd0BSW-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vRxOuRBqFdJarvsd0BSW-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="sK7VbneDD59ypfT4dMX7-1" source="vRxOuRBqFdJarvsd0BSW-2" target="sK7VbneDD59ypfT4dMX7-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="610" y="560" />
+              <mxPoint x="610" y="227" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vRxOuRBqFdJarvsd0BSW-2" value="Cari Buku?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="sK7VbneDD59ypfT4dMX7-1">
+          <mxGeometry x="255" y="520" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vRxOuRBqFdJarvsd0BSW-5" value="N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="sK7VbneDD59ypfT4dMX7-1">
+          <mxGeometry x="280" y="600" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vRxOuRBqFdJarvsd0BSW-10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="sK7VbneDD59ypfT4dMX7-1" source="vRxOuRBqFdJarvsd0BSW-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Menu Utama" link="data:page/id,UrbYEy-vXLpvZmGDaW7i" id="vRxOuRBqFdJarvsd0BSW-6">
+          <mxCell style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="sK7VbneDD59ypfT4dMX7-1">
+            <mxGeometry x="240" y="650" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="vRxOuRBqFdJarvsd0BSW-8" value="Y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="sK7VbneDD59ypfT4dMX7-1">
+          <mxGeometry x="380" y="530" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vRxOuRBqFdJarvsd0BSW-9" value="End" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="sK7VbneDD59ypfT4dMX7-1">
+          <mxGeometry x="250" y="760" width="100" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Daftar Buku" id="sa5UnSjIRh-6EfI7wuhS">
+    <mxGraphModel dx="794" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#B5739D" math="0" shadow="1">
+      <root>
+        <mxCell id="c667hr8L5_qTem_yl_u1-0" />
+        <mxCell id="c667hr8L5_qTem_yl_u1-1" parent="c667hr8L5_qTem_yl_u1-0" />
+        <mxCell id="c667hr8L5_qTem_yl_u1-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="c667hr8L5_qTem_yl_u1-1" source="c667hr8L5_qTem_yl_u1-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="197" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c667hr8L5_qTem_yl_u1-3" value="Start" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="c667hr8L5_qTem_yl_u1-1">
+          <mxGeometry x="250" y="107" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="c667hr8L5_qTem_yl_u1-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="c667hr8L5_qTem_yl_u1-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="509" y="382.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jJWRk_BpCmafreXrFkHG-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="c667hr8L5_qTem_yl_u1-1" source="jJWRk_BpCmafreXrFkHG-0" target="jJWRk_BpCmafreXrFkHG-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jJWRk_BpCmafreXrFkHG-0" value="Daftar Buku&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(buku yang sudah di tambah)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="c667hr8L5_qTem_yl_u1-1">
+          <mxGeometry x="240" y="200" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jJWRk_BpCmafreXrFkHG-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="c667hr8L5_qTem_yl_u1-1" source="jJWRk_BpCmafreXrFkHG-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jJWRk_BpCmafreXrFkHG-2" value="Tekan Enter untuk&lt;div&gt;kembali ke menu utama...&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="c667hr8L5_qTem_yl_u1-1">
+          <mxGeometry x="220" y="320" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jJWRk_BpCmafreXrFkHG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="c667hr8L5_qTem_yl_u1-1" source="jJWRk_BpCmafreXrFkHG-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Menu Utama" link="data:page/id,UrbYEy-vXLpvZmGDaW7i" id="jJWRk_BpCmafreXrFkHG-4">
+          <mxCell style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="c667hr8L5_qTem_yl_u1-1">
+            <mxGeometry x="240" y="420" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="jJWRk_BpCmafreXrFkHG-6" value="End" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="c667hr8L5_qTem_yl_u1-1">
+          <mxGeometry x="430" y="425" width="100" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Hapus Buku" id="3a0-BBP97E7ekXVFv2sh">
+    <mxGraphModel dx="794" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#B5739D" math="0" shadow="1">
+      <root>
+        <mxCell id="JEpUr1dBn0e8HdwIO7g7-0" />
+        <mxCell id="JEpUr1dBn0e8HdwIO7g7-1" parent="JEpUr1dBn0e8HdwIO7g7-0" />
+        <mxCell id="JEpUr1dBn0e8HdwIO7g7-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="JEpUr1dBn0e8HdwIO7g7-1" source="JEpUr1dBn0e8HdwIO7g7-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="214" y="197" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JEpUr1dBn0e8HdwIO7g7-3" value="Start" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="JEpUr1dBn0e8HdwIO7g7-1">
+          <mxGeometry x="164" y="107" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JEpUr1dBn0e8HdwIO7g7-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="JEpUr1dBn0e8HdwIO7g7-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="509" y="382.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5tRzsmKzoJOYE_037cdx-0" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="JEpUr1dBn0e8HdwIO7g7-1" source="4yTWlDcAVG0UEiS8KiVE-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="214" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4yTWlDcAVG0UEiS8KiVE-0" value="Hapus Buku:&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(buku yang sudah di tambah)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="JEpUr1dBn0e8HdwIO7g7-1">
+          <mxGeometry x="154" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5tRzsmKzoJOYE_037cdx-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="JEpUr1dBn0e8HdwIO7g7-1" source="5tRzsmKzoJOYE_037cdx-1" target="5tRzsmKzoJOYE_037cdx-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5tRzsmKzoJOYE_037cdx-1" value="Pilih nomor buku yang ingin dihapus (jika tidak ketik &#39;0&#39;):" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="JEpUr1dBn0e8HdwIO7g7-1">
+          <mxGeometry x="119" y="320" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5tRzsmKzoJOYE_037cdx-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="JEpUr1dBn0e8HdwIO7g7-1" source="5tRzsmKzoJOYE_037cdx-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="214" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5tRzsmKzoJOYE_037cdx-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="JEpUr1dBn0e8HdwIO7g7-1" source="5tRzsmKzoJOYE_037cdx-5" target="5tRzsmKzoJOYE_037cdx-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5tRzsmKzoJOYE_037cdx-5" value="Hapus Buku?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="JEpUr1dBn0e8HdwIO7g7-1">
+          <mxGeometry x="164" y="440" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5tRzsmKzoJOYE_037cdx-9" value="N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="JEpUr1dBn0e8HdwIO7g7-1">
+          <mxGeometry x="204" y="520" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5tRzsmKzoJOYE_037cdx-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="JEpUr1dBn0e8HdwIO7g7-1" source="5tRzsmKzoJOYE_037cdx-10" target="5tRzsmKzoJOYE_037cdx-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Menu Utama" link="data:page/id,UrbYEy-vXLpvZmGDaW7i" id="5tRzsmKzoJOYE_037cdx-10">
+          <mxCell style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="JEpUr1dBn0e8HdwIO7g7-1">
+            <mxGeometry x="154" y="570" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="5tRzsmKzoJOYE_037cdx-11" value="End" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="JEpUr1dBn0e8HdwIO7g7-1">
+          <mxGeometry x="344" y="575" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5tRzsmKzoJOYE_037cdx-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="JEpUr1dBn0e8HdwIO7g7-1" source="5tRzsmKzoJOYE_037cdx-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="514" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5tRzsmKzoJOYE_037cdx-14" value="Buku Berhasil&lt;div&gt;Dihapus&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="JEpUr1dBn0e8HdwIO7g7-1">
+          <mxGeometry x="328" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5tRzsmKzoJOYE_037cdx-15" value="y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="JEpUr1dBn0e8HdwIO7g7-1">
+          <mxGeometry x="264" y="450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t5xP5vrvaryR8EsYTrQh-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="JEpUr1dBn0e8HdwIO7g7-1" source="t5xP5vrvaryR8EsYTrQh-0" target="t5xP5vrvaryR8EsYTrQh-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t5xP5vrvaryR8EsYTrQh-0" value="Ingin menghapus&lt;div&gt;buku lagi?&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="JEpUr1dBn0e8HdwIO7g7-1">
+          <mxGeometry x="504" y="445" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="t5xP5vrvaryR8EsYTrQh-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JEpUr1dBn0e8HdwIO7g7-1" source="t5xP5vrvaryR8EsYTrQh-1" target="t5xP5vrvaryR8EsYTrQh-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="755" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="750" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t5xP5vrvaryR8EsYTrQh-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JEpUr1dBn0e8HdwIO7g7-1" source="t5xP5vrvaryR8EsYTrQh-1" target="4yTWlDcAVG0UEiS8KiVE-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="755" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="760" y="435" />
+              <mxPoint x="760" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t5xP5vrvaryR8EsYTrQh-1" value="Hapus Buku&amp;nbsp;&lt;div&gt;Lagii?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="JEpUr1dBn0e8HdwIO7g7-1">
+          <mxGeometry x="700" y="435" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="t5xP5vrvaryR8EsYTrQh-4" value="N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="JEpUr1dBn0e8HdwIO7g7-1">
+          <mxGeometry x="710" y="545" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t5xP5vrvaryR8EsYTrQh-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="JEpUr1dBn0e8HdwIO7g7-1" source="t5xP5vrvaryR8EsYTrQh-5" target="5tRzsmKzoJOYE_037cdx-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Menu Utama" link="data:page/id,UrbYEy-vXLpvZmGDaW7i" id="t5xP5vrvaryR8EsYTrQh-5">
+          <mxCell style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="JEpUr1dBn0e8HdwIO7g7-1">
+            <mxGeometry x="510" y="570" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="t5xP5vrvaryR8EsYTrQh-13" value="Y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="JEpUr1dBn0e8HdwIO7g7-1">
+          <mxGeometry x="710" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Keluar" id="DT5b1n4YtEU9Edc2_EE1">
+    <mxGraphModel dx="794" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#B5739D" math="0" shadow="1">
+      <root>
+        <mxCell id="XNBodDMtfqYMDW3N4_Jd-0" />
+        <mxCell id="XNBodDMtfqYMDW3N4_Jd-1" parent="XNBodDMtfqYMDW3N4_Jd-0" />
+        <mxCell id="XNBodDMtfqYMDW3N4_Jd-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="XNBodDMtfqYMDW3N4_Jd-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="509" y="382.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j1zeQLxeLbIIr-ktk6HY-0" value="Terima Kasih!" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="XNBodDMtfqYMDW3N4_Jd-1">
+          <mxGeometry x="350" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
