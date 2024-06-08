@@ -7,9 +7,11 @@ from Function.Hapus_Buku import hapus_buku
 from os import system, name 
 from time import sleep  
 
-def main():
-
+def clear_screen():
     system("cls" if name == "nt" else "clear")
+
+def main():
+    clear_screen()
 
     daftar_buku = []
     
@@ -38,7 +40,7 @@ def main():
             else:
                 print("\nPilihan tidak valid. Silakan pilih menu yang tersedia.")
                 sleep(2)
-                system("cls" if name == "nt" else "clear")
+                clear_screen()
                 continue
     
     except KeyboardInterrupt:
