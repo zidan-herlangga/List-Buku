@@ -1,6 +1,8 @@
 from time import sleep
 from os import system, name
 
+def clear_screen():
+    system("cls" if name == "nt" else "clear")
 
 def banner():
     print("=" * 50)
@@ -14,7 +16,7 @@ def banner():
     print("=" * 50)
 
 def tambah_buku(daftar_buku):
-    system("cls" if name == "nt" else "clear")
+    clear_screen()
 
     while True:
         banner()
@@ -29,14 +31,14 @@ def tambah_buku(daftar_buku):
         continue_ = input("\nIngin tambah buku (y/n)? ")
         
         if continue_.lower() == "y":
-            system("cls" if name == "nt" else "clear")
+            clear_screen()
             continue       
         else: 
             system("cls" if name == "nt" else "clear")
             break
 
 def cari_buku(daftar_buku):
-    system("cls" if name == "nt" else "clear")
+    clear_screen()
     banner()
     judul = input("\nMasukkan judul buku yang ingin dicari: ")
     
@@ -56,38 +58,32 @@ def cari_buku(daftar_buku):
     continue_ = input("\nIngin mencari buku lagi (y/n)? ")
     
     if continue_.lower() == "y":
-        system("cls" if name == "nt" else "clear")
+        clear_screen()
         cari_buku(daftar_buku)
     else:
-        system("cls" if name == "nt" else "clear")
+        clear_screen()
 
 def tampilkan_daftar(daftar_buku):
-    system("cls" if name == "nt" else "clear")
+    clear_screen()
     banner()
     
     print("\nDaftar Buku:")
     for idx, buku in enumerate(daftar_buku, 1):
-        # print(f"{idx}. {buku[0]} | {buku[1]} | {buku[2]}\n")
         print(f"{idx}. {buku[0]}")
-
 
     while True:
         if not daftar_buku:
             print("\nBuku tidak tersedia.")
             input("\nTekan Enter untuk kembali ke menu utama...")
-            system("cls" if name == "nt" else "clear")
+            clear_screen()
             return
         
         if daftar_buku:
             input("\nTekan Enter untuk kembali ke menu utama...")
-            system("cls" if name == "nt" else "clear")
+            clear_screen()
             return
 
 def hapus_buku(daftar_buku):
-    
-    def clear_screen():
-        system("cls" if name == "nt" else "clear")
-
     clear_screen()
     while True:
         banner()
@@ -159,7 +155,7 @@ class ListBuku:
                 else:
                     print("\nPilihan tidak valid. Silakan pilih menu yang tersedia.")
                     sleep(2)
-                    system("cls" if name == "nt" else "clear")
+                    clear_screen()
                     continue
         
         except KeyboardInterrupt:
