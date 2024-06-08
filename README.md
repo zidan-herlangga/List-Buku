@@ -10,9 +10,11 @@ List Buku adalah judul proyek untuk tugas kuliah yang bertujuan untuk mengimplem
 
 ## Penggunaan
 1. Klik button <strong>Code</strong> untuk Download repositori<br>
-    - Jika menggunakan git clone salin: `git clone https://github.com/zidan-herlangga/list-buku.git`
 
-    or
+    - <b>Catatan, pastikan git sudah terinstall di komputer Anda.</b><br>
+    Jika menggunakan git salin : `git clone https://github.com/zidan-herlangga/list-buku.git`
+
+    atau
 
     - Jika tidak menggunakan pilih `Download ZIP`
 
@@ -29,3 +31,9 @@ List Buku adalah judul proyek untuk tugas kuliah yang bertujuan untuk mengimplem
 - Naufal Ralfi
 - Novan Risqi
 - Maulana Wiksa
+
+
+## Noted
+Folder dengan nama Testing bertujuan untuk update yang akan datang
+
+Untuk update repository bisa melakukan perintah di terminal: `git pull`
