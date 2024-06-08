@@ -1,11 +1,21 @@
 from .Banner import banner
+from os import system, name
 
-import os
+def clear_screen():
+    system("cls" if name == "nt" else "clear")
 
 def cari_buku(daftar_buku):
-    os.system("cls" if os.name == "nt" else "clear")
+    clear_screen()
+    
     banner()
-    judul = input("\nMasukkan judul buku yang ingin dicari: ")
+    print("\nCari Buku:")
+
+    try:
+        judul = input("\nMasukkan judul buku yang ingin dicari: ")
+
+    except KeyboardInterrupt:
+        clear_screen()
+        return
     
     found = False
     
@@ -23,7 +33,7 @@ def cari_buku(daftar_buku):
     continue_ = input("\nIngin mencari buku lagi (y/n)? ")
     
     if continue_.lower() == "y":
-        os.system("cls" if os.name == "nt" else "clear")
+        clear_screen()
         cari_buku(daftar_buku)
     else:
-        os.system("cls" if os.name == "nt" else "clear")
+        clear_screen()

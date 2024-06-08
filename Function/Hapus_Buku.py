@@ -1,12 +1,12 @@
-from os import system, name
 from .Banner import banner
+from os import system, name
+
+def clear_screen():
+    system("cls" if name == "nt" else "clear")
 
 def hapus_buku(daftar_buku):
-    
-    def clear_screen():
-        system("cls" if name == "nt" else "clear")
-
     clear_screen()
+    
     while True:
         banner()
         print("\nHapus Buku:")

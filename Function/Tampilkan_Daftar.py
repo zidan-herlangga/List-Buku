@@ -1,25 +1,25 @@
 from .Banner import banner
+from os import system, name
 
-import os
+def clear_screen():
+    system("cls" if name == "nt" else "clear")
 
 def tampilkan_daftar(daftar_buku):
-    os.system("cls" if os.name == "nt" else "clear")
-    banner()
+    clear_screen()
     
+    banner()
     print("\nDaftar Buku:")
     for idx, buku in enumerate(daftar_buku, 1):
-        # print(f"{idx}. {buku[0]} | {buku[1]} | {buku[2]}\n")
         print(f"{idx}. {buku[0]}")
-
 
     while True:
         if not daftar_buku:
             print("\nBuku tidak tersedia.")
             input("\nTekan Enter untuk kembali ke menu utama...")
-            os.system("cls" if os.name == "nt" else "clear")
+            clear_screen()
             return
         
         if daftar_buku:
             input("\nTekan Enter untuk kembali ke menu utama...")
-            os.system("cls" if os.name == "nt" else "clear")
+            clear_screen()
             return
